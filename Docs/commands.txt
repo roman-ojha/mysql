@@ -3,3 +3,5 @@
     -> mysql -u <user_name> -p <password> -h <host>
     -> EX by default:
         -> mysql -u root -p -h localhost
+    
+*) https://www.interviewbit.com/blog/mysql-commands/
