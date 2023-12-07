@@ -3,5 +3,15 @@
     -> mysql -u <user_name> -p <password> -h <host>
     -> EX by default:
         -> mysql -u root -p -h localhost
+    -> mysql -uroot 
+        -> (logged int as a root user)
+    -> show databases; 
+        -> (list out all the databases)
+    -> USE <database_name>;
+        -> (to activate and use given database)
+    -> show tables;
+        -> (to show all the tables)
+    -> describe user;
+        -> (show all the available fields with it's metadata)
     
 *) https://www.interviewbit.com/blog/mysql-commands/
