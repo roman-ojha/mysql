@@ -13,5 +13,8 @@
         -> (to show all the tables)
     -> describe user;
         -> (show all the available fields with it's metadata)
+        
+    -> mysql -u $MYSQL_USER -p$MYSQL_ROOT_PASSWORD
+        -> (run mysql command line with environment variables value)
     
 *) https://www.interviewbit.com/blog/mysql-commands/
